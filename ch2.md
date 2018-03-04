@@ -52,6 +52,7 @@
 3.函数
 
 |name|desc|
+|-|-|
 |concat(s1,s2)||
 |insert(str,start,len,instr)|把str第start字符开始的len个字符替换成instr|
 |lower(str),upper(str)|大小写转换|
